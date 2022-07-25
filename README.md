@@ -28,6 +28,3 @@ it suggests key points that every developer must master, and I will choose some 
 10. _Self-Development._
 11. _Don’t be a hero._
 12. Don’t Ask Questions… _Ask For Help_.
-
-
-![image](./images%20/download.png)
